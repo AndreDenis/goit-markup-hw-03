@@ -157,6 +157,7 @@ address {
   background-color: #2f303a;
   /* height: 600px; */
   text-align: center;
+  background-image: url(../images);
 }
 
 .main-title {
@@ -296,12 +297,13 @@ address {
 }
 
 .footer {
-  padding: 60 px 0 px;
+  padding: 60px 0px;
   background-color: #2f303a;
 }
 
 .footer-link {
   font-style: normal;
+  line-height: 1.71>щзхъ;
   color: var(--white-txt-color);
 }
 
